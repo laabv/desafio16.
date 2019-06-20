@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        
+        <style>
+            h2{color:rgb(245, 179, 245);}
+            h1{color:rgb(151, 173, 237);}
+            body{background-color:rgb(210, 252, 236);}
+            
+        </style>
+        
+    </head>
+    <body>
+    
+        <h1>Travel to Santorini</h1>
+        
+    </body>
+    <h2>Introducción</h2>
+    <p>Santorini es un pequeño pueblo de Grecia cuya forma es de media luna debido al hundimiento de la caldera del volcán que lo forma. Se caracteriza por ser una de las islas más bonitas y elegida por muchas personas cmo destinatario  deseada por muchas otras.</p>
+    
+    <img src="https://www.costacruceros.es/puertos/santorini.html">
+    
+    <h2>Guía Turística</h2>
+    
+    <p>Los pasos de la guía son:</p>
+    
+    
+    <ul>
+    <li>Comenzaremos visitando Fira,al oste de la isla.</li>
+    <li>Tras visitar este iremos a Imerovigli a 2km de Fira.</li>
+    <li>finalmente visitaremos Oia que se enuentra al norte de la isla y l ciudad más famosa de la isla, donde se encuentra el alojamiento cuys vistas son preciosas </li>
+    </ul>
+    
+    
+    
+</html>
